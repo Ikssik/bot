@@ -11,7 +11,7 @@
 - [ ] This includes major changes (breaking changes)
 - [ ] This includes minor changes (minimal usage changes, minor new features)
 - [ ] This includes patches (bug fixes)
-- [ ] This does not change functionality at all (code refactoring, comments)
+- [ ] This does not change functionality at all (code refactoring, comments) ikssik 
 
 **Is this related to an issue?**
 
